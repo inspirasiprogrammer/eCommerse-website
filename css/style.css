@@ -1,0 +1,8 @@
+#feature {
+    background:rgb(70, 129, 163);
+    background-image: linear-gradient(to right top, #1365e5, #0084f5, #009ffb, #00b8fc, #0ccff9);
+}
+*{ 
+    scroll-behavior: smooth; 
+} 
+   
