@@ -3,7 +3,7 @@
    <img src ="./images/logo.png">
 </p>
 
-# Shoop.my 🛒
+# Shopp.my 🛒
 
 Shopp.my is an e-commerce website for clothing that allows you to buy and sell goods online.
 
